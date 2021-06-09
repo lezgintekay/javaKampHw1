@@ -22,5 +22,6 @@ Course[] courses = {course1, course2} ;
 
 	User user = new User("lezgintekay", 123456, "tekay.lezgin@yandex.com") ; 
 	
+	
  }
 }
